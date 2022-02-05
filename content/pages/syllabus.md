@@ -31,12 +31,57 @@ Course Requirements
 
 Students are expected to complete the weekly readings prior to class, to attend all classes and to participate in discussion. The course grades are based on:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 20% |
-| Response papers / presentations | 20% |
-| An 8-page research/policy paper that involves library / field research | 30% |
-| Final 8-page paper and presentation in which students explore strategies and / or leadership for change | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Response papers / presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+An 8-page research/policy paper that involves library / field research
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final 8-page paper and presentation in which students explore strategies and / or leadership for change
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 See [Assignments section]({{< baseurl >}}/pages/assignments) for more information.
 
