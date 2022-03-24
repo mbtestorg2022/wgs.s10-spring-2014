@@ -225,7 +225,7 @@ Sandberg, Sheryl. _Lean In: Women, Work, and the Will to Lead._ Knopf Doubleday 
 
 Kantor, Jodi, and Jessica Silver-Greenberg. "[Wall Street Mothers, Stay-Home Fathers](http://www.nytimes.com/2013/12/08/us/wall-street-mothers-stay-home-fathers.html?_r=1&)," _The New York Times_, December 7, 2013.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Missing Pieces: Women and Minorities on Fortune 500 Boards." (PDF - 1.4MB)](https://www.catalyst.org/research/missing-pieces-women-and-minorities-on-fortune-500-boards-2010-alliance-for-board-diversity-census/) 2010 Alliance for Board Diversity Census. July 21, 2011.
+["Missing Pieces: Women and Minorities on Fortune 500 Boards." (PDF - 1.4MB)](https://www.catalyst.org/research/missing-pieces-women-and-minorities-on-fortune-500-boards-2010-alliance-for-board-diversity-census/) 2010 Alliance for Board Diversity Census. July 21, 2011.
 
 
 {{< tdclose >}}
@@ -285,7 +285,7 @@ DeBaise, Colleen. "[5 Reasons Why 2013 Was Good For Women in Politics](http://ww
 
 Carlin, Diana B., and Kelly L. Winfrey. "[Have You Come a Long Way, Baby? Hillary Clinton, Sarah Palin, and Sexism in 2008 Campaign Coverage](http://dx.doi.org/10.1080/10510970903109904)." _Communication Studies_ 60, no. 4 (2009): 326–43.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fact Sheet: Women's Political Leadership in Boston." (PDF)](https://www.umb.edu/editor_uploads/images/centers_institutes/center_women_politics/WomenPoliticalLeadershipBoston_Nov2013.pdf) UMass Boston Center for Women in Politics and Public Policy. November 2013.
+["Fact Sheet: Women's Political Leadership in Boston." (PDF)](https://www.umb.edu/editor_uploads/images/centers_institutes/center_women_politics/WomenPoliticalLeadershipBoston_Nov2013.pdf) UMass Boston Center for Women in Politics and Public Policy. November 2013.
 
 
 {{< tdclose >}}
@@ -335,13 +335,13 @@ Comparable worth
 
 Students select articles from:
 
-Amott, Teresa, and Julie Matthei. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Comparable Worth, Incomparable Pay: The Issue at Yale." (PDF - 16.8MB)](http://library.brown.edu/pdfs/1142530622637416.pdf) _Radical America-Women and Labor Activism_ 18, no. 5 (1984): 21.
+Amott, Teresa, and Julie Matthei. ["Comparable Worth, Incomparable Pay: The Issue at Yale." (PDF - 16.8MB)](http://library.brown.edu/pdfs/1142530622637416.pdf) _Radical America-Women and Labor Activism_ 18, no. 5 (1984): 21.
 
 Blum, Linda M. "Possibilities and Limits of Comparable Worth." In _Workplace / Women's Place: An Anthology_. Edited by Dana Dunn. Roxbury Publishing Company, 1998. ISBN: 9780935732818.
 
 ———, ed. "Tough Politics: The Comparable Worth Movement." In _Between Feminism and Labor: The Significance of the Comparable Worth Movement_. The University of California Press, 1991. ISBN: 9780520072596. \[Preview with [Google Books](http://books.google.com/books?id=UfOUZggr9N8C&pg=PA54#v=onepage)\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["How the Paycheck Fairness Act Will Strengthen the Equal Pay Act." (PDF)](http://www.nwlc.org/sites/default/files/pdfs/how_the_pfa_will_strengthen_the_epa_may_2015.pdf) Fact Sheet. National Women's Law Center. May 2012.
+["How the Paycheck Fairness Act Will Strengthen the Equal Pay Act." (PDF)](http://www.nwlc.org/sites/default/files/pdfs/how_the_pfa_will_strengthen_the_epa_may_2015.pdf) Fact Sheet. National Women's Law Center. May 2012.
 
 
 {{< tdclose >}}
@@ -421,7 +421,7 @@ Child care policy
 {{< tdopen >}}
 
 
-Casper, Lynne M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Who's Minding Our Preschoolers?" (PDF)](https://www.census.gov/prod/1/pop/p70-53.pdf) _Current Population Reports_ (1996): 70–53.
+Casper, Lynne M. ["Who's Minding Our Preschoolers?" (PDF)](https://www.census.gov/prod/1/pop/p70-53.pdf) _Current Population Reports_ (1996): 70–53.
 
 Hofferth, S., and D. Wissoker. "[Price, Quality, and Income in Child Care Choice](http://www.jstor.org/discover/10.2307/145913?uid=3739696&uid=2&uid=4&uid=3739256&sid=21103985383881)." _Journal of Human Resources_ 27, no. 1 (1992): 70–111.
 
